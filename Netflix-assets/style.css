@@ -1,0 +1,99 @@
+.navbar-brand img {
+  width: 100px;
+}
+h1 {
+  margin: 0px;
+}
+ul {
+  padding: 0px;
+}
+ul li {
+  list-style: none;
+}
+
+.nav-link {
+  color: grey;
+}
+.nav-link:hover {
+  color: white;
+}
+.row div img {
+  width: 100%;
+}
+.setfilm {
+  margin-top: 25px;
+}
+
+.bi-list-ul,
+.bi-dice-4 {
+  border: 1px solid white;
+  padding: 2px 14px;
+}
+
+.fotbtn {
+  color: grey;
+  border: 1px solid grey;
+  padding: 5px;
+  width: max-content;
+}
+
+@media (min-width: 576px) {
+  .imgfilms {
+    padding: 3px;
+    margin-top: 15px;
+  }
+  .iconetop ul .ic2 {
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .imgfilms {
+    padding: 3px;
+    margin-top: 15px;
+  }
+}
+
+@media (min-width: 992px) {
+  .imgfilms {
+    padding: 2px;
+    padding-left: 2px;
+  }
+  footer {
+    width: 75%;
+    margin: 100px auto 0px auto;
+  }
+  .socialicon i {
+    font-size: 1.4em;
+    margin-right: 10px;
+  }
+  main.account {
+    width: 50%;
+    margin: 5% auto;
+  }
+}
+.footertext div div {
+  padding: 0px;
+}
+.fotbtn {
+  background-color: #007bff; /* Colore di sfondo predefinito del pulsante */
+  color: #ffffff; /* Colore del testo predefinito del pulsante */
+  transition: background-color 0.3s, color 0.3s; /* Aggiungi una transizione fluida */
+}
+
+.btn-custom {
+  background-color: #007bff00;
+  border: solid white 1px;
+  color: #ffffff;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-custom:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+.formlang {
+  width: max-content;
+}
+.language{margin: 0px;}
+.allmat{width: max-content; font-size: 0.8em;}
